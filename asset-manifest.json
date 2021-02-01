@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/slambook/static/css/main.4a230099.chunk.css",
-    "main.js": "/slambook/static/js/main.d5dc27d2.chunk.js",
-    "main.js.map": "/slambook/static/js/main.d5dc27d2.chunk.js.map",
+    "main.js": "/slambook/static/js/main.b5711681.chunk.js",
+    "main.js.map": "/slambook/static/js/main.b5711681.chunk.js.map",
     "runtime-main.js": "/slambook/static/js/runtime-main.66a681b6.js",
     "runtime-main.js.map": "/slambook/static/js/runtime-main.66a681b6.js.map",
     "static/js/2.7cfd5a9c.chunk.js": "/slambook/static/js/2.7cfd5a9c.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.66a681b6.js",
     "static/js/2.7cfd5a9c.chunk.js",
     "static/css/main.4a230099.chunk.css",
-    "static/js/main.d5dc27d2.chunk.js"
+    "static/js/main.b5711681.chunk.js"
   ]
 }
